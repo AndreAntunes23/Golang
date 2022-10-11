@@ -1,0 +1,12 @@
+11/10/2022 17:02:57 - https://www.alura.com.br- online: true
+11/10/2022 17:02:57 - https://www.casadocodigo.com.br- online: true
+11/10/2022 17:02:58 - https://www.google.com.br- online: true
+11/10/2022 17:03:01 - https://random-status-code.herokuapp.com/- online: true
+11/10/2022 17:03:08 - https://www.alura.com.br- online: true
+11/10/2022 17:03:08 - https://www.casadocodigo.com.br- online: true
+11/10/2022 17:03:09 - https://www.google.com.br- online: true
+11/10/2022 17:03:09 - https://random-status-code.herokuapp.com/- online: true
+11/10/2022 17:03:16 - https://www.alura.com.br- online: true
+11/10/2022 17:03:17 - https://www.casadocodigo.com.br- online: true
+11/10/2022 17:03:17 - https://www.google.com.br- online: true
+11/10/2022 17:03:17 - https://random-status-code.herokuapp.com/- online: true
